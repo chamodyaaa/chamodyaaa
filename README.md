@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I’m Chamodya Wijesuriya!
 
-<!--
-**chamodyaaa/chamodyaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a Computer Science undergraduate at the University of Kelaniya, specializing in Data Science.  
+🐍 I have a foundational knowledge of Python and a keen interest in how AI works.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Exploring Data Science concepts and applying them in real-world projects
+- Building and experimenting with projects using GitHub
+- Continuously learning about Artificial Intelligence and its impact on society
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python (basic)
+- Data Science fundamentals
+- Git & GitHub for project collaboration
+
+## 🌱 Interests
+- Artificial Intelligence (AI) and its mechanisms
+- Data-driven technologies
+- Always curious about new trends in tech!
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/chamodya-wijesuriya-a52b76295)
+
+---
+
+Feel free to check out my projects or reach out if you share similar interests!
